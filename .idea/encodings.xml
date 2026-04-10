@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Greenhouse/api-gateway/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greenhouse/automation-service/automation-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greenhouse/config-server/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greenhouse/eureka-server/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greenhouse/sensor-service/sensor-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greenhouse/zone-service/zone-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
